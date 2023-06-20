@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/US_Visa_Philippines/static/css/main.073c9b0a.css",
-    "main.js": "/US_Visa_Philippines/static/js/main.6f355d72.js",
+    "main.js": "/US_Visa_Philippines/static/js/main.b1a9b77a.js",
     "static/js/787.37a2481d.chunk.js": "/US_Visa_Philippines/static/js/787.37a2481d.chunk.js",
-    "static/media/logo.svg": "/US_Visa_Philippines/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/US_Visa_Philippines/index.html",
     "main.073c9b0a.css.map": "/US_Visa_Philippines/static/css/main.073c9b0a.css.map",
-    "main.6f355d72.js.map": "/US_Visa_Philippines/static/js/main.6f355d72.js.map",
+    "main.b1a9b77a.js.map": "/US_Visa_Philippines/static/js/main.b1a9b77a.js.map",
     "787.37a2481d.chunk.js.map": "/US_Visa_Philippines/static/js/787.37a2481d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6f355d72.js"
+    "static/js/main.b1a9b77a.js"
   ]
 }
